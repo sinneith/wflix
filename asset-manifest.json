@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wflix/static/css/main.63571cc7.css",
+    "main.js": "/wflix/static/js/main.e7151dc7.js",
+    "static/media/search.png": "/wflix/static/media/search.80f3a44308ed3cae3eb1.png",
+    "static/media/logo.png": "/wflix/static/media/logo.792c6cf017e33499b128.png",
+    "static/media/visit.png": "/wflix/static/media/visit.ed06b499ec8d6d6117b7.png",
+    "index.html": "/wflix/index.html",
+    "main.63571cc7.css.map": "/wflix/static/css/main.63571cc7.css.map",
+    "main.e7151dc7.js.map": "/wflix/static/js/main.e7151dc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63571cc7.css",
+    "static/js/main.e7151dc7.js"
+  ]
+}
